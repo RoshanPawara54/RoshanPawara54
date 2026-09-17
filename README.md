@@ -1,5 +1,6 @@
-Roshan Pawara
+# Roshan Pawara
 
+```text
 > whoami
 Roshan Pawara
 
@@ -34,3 +35,4 @@ GCOERC • 2022 — 2026
 
 > connect
 LinkedIn → linkedin.com/in/roshan-pawara-9a2568333
+```
