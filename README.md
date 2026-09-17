@@ -1,29 +1,36 @@
+Roshan Pawara
+
 > whoami
 Roshan Pawara
 
 > role
 Computer Engineering Graduate | Backend Developer
 
-> skills
-Java • Spring Boot • Spring Security • JPA • Hibernate • REST APIs • SQL
+> core_skills
+Java • Spring Boot • Spring Security • JPA
+Hibernate • REST APIs • JWT • SQL
 
-> also_working_with
-Python • React • FastAPI • PostgreSQL • MySQL • AI/ML
+> technologies
+Python • JavaScript • React • FastAPI
+PostgreSQL • MySQL • Supabase • Pinecone
+
+> ai_stack
+LangGraph • RAG • Groq API
+Sentence Transformers • STT • TTS
 
 > currently_learning
-System Design && Advanced Spring Boot
+Advanced Spring Boot && System Design
 
 > currently_building
 Pawara Service Pro
 
-> projects
-[Pawara Service Pro, VocaliZ, Energy Consumption Forecasting]
-
 > experience
 Data Science Intern @ Netleap IT Training & Solutions
+Jan 2025 — Feb 2025
 
 > education
-B.E. Computer Engineering — GCOERC
+B.E. Computer Engineering
+GCOERC • 2022 — 2026
 
-> mindset
-"build → learn → improve → repeat"
+> connect
+LinkedIn → linkedin.com/in/roshan-pawara-9a2568333
