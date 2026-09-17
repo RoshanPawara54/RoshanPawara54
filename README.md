@@ -5,7 +5,7 @@
 Roshan Pawara
 
 > role
-Computer Engineering Graduate | Backend Developer
+Computer Engineering Graduate | Backend Developer | Java & Spring Boot
 
 > core_skills
 Java • Spring Boot • Spring Security • JPA
